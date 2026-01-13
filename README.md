@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server for accessing the TU Dresden canteen API (Studentenwerk Dresden). This server provides tools to query canteen information, available days, and daily meal menus through the OpenMensa v2 API.
 
+You can access it, e.g. via the [jan.ai](https://github.com/janhq/jan) GUI.
+
+![](docs/images/teaser.png)
+
 ## Features
 
 This MCP server provides three tools:
